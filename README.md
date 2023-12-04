@@ -1,6 +1,6 @@
 # Hi ! I'm Raphaël VICTOR
 
-###🙋‍♂️ About me
+### 🙋‍♂️ About me
 
 - 🔭 I am currently working on a work-study basis at **[Sellsy](https://go.sellsy.com/)**
 

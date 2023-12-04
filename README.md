@@ -2,8 +2,8 @@
 
 ### 🙋‍♂️ About me
 
-- 🔭 I am currently working on a work-study basis at **[Sellsy](https://go.sellsy.com/)**
+- 🔭 Je travaille en alternance chez **[Sellsy](https://go.sellsy.com/)**
 
-- 📫 How to reach me **raphaelvictor.pro@hotmail.com**
+- ⚡**Je suis étudiant en LP MIAW à La Rochelle**
 
-- ⚡**I am a computer science student in LP MIAW - La Rochelle**
+- 📫 Comment me contacter ? -> **raphaelvictor.pro@hotmail.com**

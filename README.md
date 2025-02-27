@@ -2,8 +2,8 @@
 
 ### 🙋‍♂️ About me
 
-- 🔭 Je travaille en alternance chez **[Sellsy](https://go.sellsy.com/)**
+- 🔍💼 **En recherche d'emploi**
 
-- ⚡**Je suis étudiant en LP MIAW à La Rochelle**
+- ⚡**Diplomé Licence Informatique et LP MIAW à La Rochelle**
 
 - 📫 Comment me contacter ? -> **raphaelvictor.pro@hotmail.com**
